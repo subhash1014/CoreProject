@@ -6,6 +6,7 @@ public class ApplicationMain {
 		System.out.println("Changes from anthor workspace");
 		System.out.println("Changes from anthor workspace added new changes");
 		System.out.println("Changes from anthor workspace added new changes two");
+		System.out.println("Changes from anthor workspace added new changes three");
 
 	}
 
